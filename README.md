@@ -1,5 +1,5 @@
 # Task-4_08-08-2025
-##*Manage a DevOps project using Git best practices.*
+#<ins>**Manage a DevOps project using *Git best practices*.**</ins>
 
 - Created dev,feature and main branches.
 - Made a change in readme file of feature and dev branch to create a pull request from both branches.
